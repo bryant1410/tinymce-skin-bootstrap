@@ -10,11 +10,11 @@ Authors
 
 Official link in french : http://blog.aurelien-gerits.be/2013/01/09/tinymce-skin-twitter-bootstrap/
 
-###Screenshot
+### Screenshot
 
 ![tinyMCE thème bootstrap](http://blog.aurelien-gerits.be/wp-content/uploads/2013/01/skin-tinymce-bootstrap-2013-1-9.png "tinyMCE thème bootstrap")
 
-###Installation
+### Installation
  * Download skin
  * Unzip archive
  * Move folder bootstrap in tinyMCE (tiny_mce/themes/advanced/skin/)
@@ -45,7 +45,7 @@ tinyMCE.init({
 });
 </pre>
 
-####Demo
+#### Demo
 Coming soon
 
 Licence
@@ -70,7 +70,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-####DISCLAIMER
+#### DISCLAIMER
 
 Do not edit or add to this file if you wish to upgrade tinyMCE skin Bootstrap to newer
 versions in the future. If you wish to customize tinyMCE skin Bootstrap for your
